@@ -1,0 +1,1 @@
+CREATE TABLE clientes(nome VARCHAR(50) PRIMARY KEY, idade INT, telefone VARCHAR(20));
